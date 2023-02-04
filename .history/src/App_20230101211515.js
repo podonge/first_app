@@ -43,9 +43,10 @@ function App() {
 }
 
 Food.propTypes = {
-  name : PropTypes.string.isRequired,
-  picture : PropTypes.string.isRequired,
-  rating : PropTypes.number.isRequired,
+  name : propTypes.string.isRequired,
+  picture : propTypes.string.isRequired,
+  rating : propTypes.string.isRequired,
+
 }
 
 export default App;

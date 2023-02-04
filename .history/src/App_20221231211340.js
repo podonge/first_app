@@ -1,0 +1,7 @@
+import Potato from "./potato";
+
+function App() {
+  return <div>HEllo</div>;
+}
+
+export default App;
